@@ -1,0 +1,17 @@
+D:\web\addphpMVC\GameStore\bin\GameStore.dll
+D:\web\addphpMVC\GameStore\bin\GameStore.pdb
+D:\web\addphpMVC\GameStore\bin\EntityFramework.dll
+D:\web\addphpMVC\GameStore\bin\EntityFramework.SqlServer.dll
+D:\web\addphpMVC\GameStore\bin\EntityFramework.xml
+D:\web\addphpMVC\GameStore\bin\EntityFramework.SqlServer.xml
+D:\web\addphpMVC\GameStore\obj\Debug\GameStore.csprojResolveAssemblyReference.cache
+D:\web\addphpMVC\GameStore\obj\Debug\GameStore.dll
+D:\web\addphpMVC\GameStore\obj\Debug\GameStore.pdb
+D:\web\addphpMVC\GameStore\bin\Antlr3.Runtime.dll
+D:\web\addphpMVC\GameStore\bin\Microsoft.Web.Infrastructure.dll
+D:\web\addphpMVC\GameStore\bin\Newtonsoft.Json.dll
+D:\web\addphpMVC\GameStore\bin\System.Web.Optimization.dll
+D:\web\addphpMVC\GameStore\bin\WebGrease.dll
+D:\web\addphpMVC\GameStore\bin\Antlr3.Runtime.pdb
+D:\web\addphpMVC\GameStore\bin\Newtonsoft.Json.xml
+D:\web\addphpMVC\GameStore\bin\System.Web.Optimization.xml

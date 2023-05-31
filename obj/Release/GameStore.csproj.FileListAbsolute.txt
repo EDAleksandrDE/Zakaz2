@@ -1,0 +1,54 @@
+D:\web\addphpMVC\GameStore\bin\GameStore.dll
+D:\web\addphpMVC\GameStore\bin\GameStore.pdb
+D:\web\addphpMVC\GameStore\bin\Antlr3.Runtime.dll
+D:\web\addphpMVC\GameStore\bin\EntityFramework.dll
+D:\web\addphpMVC\GameStore\bin\EntityFramework.SqlServer.dll
+D:\web\addphpMVC\GameStore\bin\Microsoft.Web.Infrastructure.dll
+D:\web\addphpMVC\GameStore\bin\Newtonsoft.Json.dll
+D:\web\addphpMVC\GameStore\bin\System.Web.Optimization.dll
+D:\web\addphpMVC\GameStore\bin\WebGrease.dll
+D:\web\addphpMVC\GameStore\bin\Antlr3.Runtime.pdb
+D:\web\addphpMVC\GameStore\bin\EntityFramework.xml
+D:\web\addphpMVC\GameStore\bin\EntityFramework.SqlServer.xml
+D:\web\addphpMVC\GameStore\bin\Newtonsoft.Json.xml
+D:\web\addphpMVC\GameStore\bin\System.Web.Optimization.xml
+D:\web\addphpMVC\GameStore\obj\Release\GameStore.dll
+D:\web\addphpMVC\GameStore\obj\Release\GameStore.pdb
+D:\web\addphpMVC\GameStore\obj\Release\GameStore.csprojResolveAssemblyReference.cache
+D:\Projects\WebSites\GameStore\bin\GameStore.dll
+D:\Projects\WebSites\GameStore\bin\GameStore.pdb
+D:\Projects\WebSites\GameStore\bin\Antlr3.Runtime.dll
+D:\Projects\WebSites\GameStore\bin\EntityFramework.dll
+D:\Projects\WebSites\GameStore\bin\EntityFramework.SqlServer.dll
+D:\Projects\WebSites\GameStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\WebSites\GameStore\bin\Newtonsoft.Json.dll
+D:\Projects\WebSites\GameStore\bin\System.Web.Optimization.dll
+D:\Projects\WebSites\GameStore\bin\WebGrease.dll
+D:\Projects\WebSites\GameStore\bin\Antlr3.Runtime.pdb
+D:\Projects\WebSites\GameStore\bin\EntityFramework.xml
+D:\Projects\WebSites\GameStore\bin\EntityFramework.SqlServer.xml
+D:\Projects\WebSites\GameStore\bin\Newtonsoft.Json.xml
+D:\Projects\WebSites\GameStore\bin\System.Web.Optimization.xml
+D:\Projects\WebSites\GameStore\obj\Release\GameStore.csprojResolveAssemblyReference.cache
+D:\Projects\WebSites\GameStore\obj\Release\GameStore.dll
+D:\Projects\WebSites\GameStore\obj\Release\GameStore.pdb
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\GameStore.dll.config
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\GameStore.dll
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\GameStore.pdb
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\Antlr3.Runtime.dll
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\EntityFramework.dll
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\EntityFramework.SqlServer.dll
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\Newtonsoft.Json.dll
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\System.Web.Optimization.dll
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\WebGrease.dll
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\Antlr3.Runtime.pdb
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\EntityFramework.xml
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\EntityFramework.SqlServer.xml
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\Newtonsoft.Json.xml
+C:\Users\Welcom\Desktop\Новая папка (6)\bin\System.Web.Optimization.xml
+C:\Users\Welcom\Desktop\Новая папка (6)\obj\Release\GameStore.csproj.AssemblyReference.cache
+C:\Users\Welcom\Desktop\Новая папка (6)\obj\Release\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\Welcom\Desktop\Новая папка (6)\obj\Release\GameStore.csproj.CopyComplete
+C:\Users\Welcom\Desktop\Новая папка (6)\obj\Release\GameStore.dll
+C:\Users\Welcom\Desktop\Новая папка (6)\obj\Release\GameStore.pdb
