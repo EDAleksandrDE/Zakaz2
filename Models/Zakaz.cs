@@ -7,10 +7,10 @@ namespace Zakaz.Name
     {
         private List<ZakaztLine> lineCollection = new List<ZakaztLine>();
 
-        public void AddItem(Zakaz game, int quantity)
+        public void AddItem(Zakaz zakaz, int quantity)
         {
             ZakaztLine line = lineCollection
-                .Where(p => p.Zakaz.ZakazId == game.ZakazId)
+                .Where(p => p.Zakaz.ZakazId == Zakaz.ZakazId)
                 .FirstOrDefault();
 
             if (line == null)
